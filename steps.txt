@@ -1,0 +1,19 @@
+Laravel Project Creation: composer create-project --prefer-dist laravel/laravel blog
+
+Git: git clone .................
+
+     cd to that directory
+
+     git checkout -b rocky
+
+     git push --set-upstream origin rocky
+
+always git status
+
+git commit -m " First Commit"
+
+git push
+
+     
+
+
